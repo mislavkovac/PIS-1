@@ -6,7 +6,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Novo!");
+            for (i = 0; i < 100; i++)
+                Console.WriteLine("Novo!");
         }
     }
 }
+//ispise ti se Novo! 100 puta
