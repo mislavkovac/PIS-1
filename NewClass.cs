@@ -8,7 +8,8 @@ namespace ConsoleApp2
     {
         void print()
         {
-            
+        }
+        void TrecaPromjena(){
         }
     }
 }
