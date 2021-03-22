@@ -8,6 +8,7 @@ namespace ConsoleApp2
     {
         void print()
         {
+            Console.WriteLine("Promjena");
         }
         void TrecaPromjena(){
         }
